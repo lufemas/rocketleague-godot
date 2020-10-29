@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/KC Halfpipe (Mega).obj-bc94d585c1a9a373fbd5e138d8c0f1d0.mesh"
+
+[deps]
+
+files=[ "res://.import/KC Halfpipe (Mega).obj-bc94d585c1a9a373fbd5e138d8c0f1d0.mesh" ]
+
+source_file="res://assets/models/Arena/KC Halfpipe (Mega)/KC Halfpipe (Mega).obj"
+dest_files=[ "res://.import/KC Halfpipe (Mega).obj-bc94d585c1a9a373fbd5e138d8c0f1d0.mesh", "res://.import/KC Halfpipe (Mega).obj-bc94d585c1a9a373fbd5e138d8c0f1d0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

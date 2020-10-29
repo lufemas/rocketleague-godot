@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Tire.obj-1ac3c463198e4267aa545e3848508255.mesh"
+
+[deps]
+
+files=[ "res://.import/Tire.obj-1ac3c463198e4267aa545e3848508255.mesh" ]
+
+source_file="res://assets/models/Octane/Tire.obj"
+dest_files=[ "res://.import/Tire.obj-1ac3c463198e4267aa545e3848508255.mesh", "res://.import/Tire.obj-1ac3c463198e4267aa545e3848508255.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

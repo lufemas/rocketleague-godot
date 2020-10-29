@@ -1,0 +1,29 @@
+# Exported from 3D Builder
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd White.png
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd Half Pipe Gate Texture.png
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd Black+White Sidestripes Texture (Mega).png
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd 90% Black.png
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd KC Middle Halfpipe Texture (Mega).png
+
+newmtl Mat_5
+Kd 1.000000 1.000000 1.000000
+map_Kd Black+White Sidestripes Texture 2 (Mega).01.png
+
+newmtl Mat_6
+Kd 1.000000 1.000000 1.000000
+map_Kd KC Back Halfpipe Texture (Mega).png
